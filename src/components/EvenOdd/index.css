@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.heading {
+  font-size: 50px;
+  font-family: 'Roboto';
+}
+
+.result-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 170px;
+  height: 30px;
+  border-width: 0;
+  border-radius: 10px;
+}
+
+.description {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #334155;
+}
+
+.description2 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #334155;
+}
